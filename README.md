@@ -11,4 +11,7 @@ https://github.com/liuzhen910201/tiktaktoe
 ![](https://github.com/liuzhen910201/gobang/blob/main/gobang2.png)
 
 ### 设定
-1，
+1，MCTS计算次数设定为10000
+'''
+for _ in range(10000):
+'''
