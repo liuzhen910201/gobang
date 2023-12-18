@@ -9,3 +9,6 @@ https://github.com/liuzhen910201/tiktaktoe
 运行
 <br>
 ![](https://github.com/liuzhen910201/gobang/blob/main/gobang2.png)
+
+### 设定
+1，
